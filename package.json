@@ -15,7 +15,7 @@
   "dependencies": {
     "cookie-session": "^2.0.0-rc.1",
     "cors": "^2.8.5",
-    "mongodb": "^3.6.0",
+    "mongodb": "^3.6.9",
     "next": "^9.5.4",
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
