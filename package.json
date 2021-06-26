@@ -17,8 +17,8 @@
     "cors": "^2.8.5",
     "mongodb": "^3.6.0",
     "next": "^9.5.4",
-    "react": "^16.13.1",
-    "react-dom": "^16.13.1"
+    "react": "^16.14.0",
+    "react-dom": "^16.14.0"
   },
   "devDependencies": {
     "@types/cookie-session": "^2.0.41",
